@@ -1,4 +1,4 @@
-# Árbol Genealógico Binario en Python#
+# Árbol Genealógico Binario en Python
 Este proyecto implementa un árbol genealógico binario en Python utilizando programación orientada a objetos. Cada nodo representa una persona, y los nodos conectados representan sus progenitores.
 
 ## Objetivo
